@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### Contact me
+### Contact
 
 [mtrazzi@student.42.fr](mailto:mtrazzi@student.42.fr)
