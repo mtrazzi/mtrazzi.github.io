@@ -11,7 +11,7 @@ I have been constantly trying to optimize my time.
 
 The important thing is to _feel_ the flow of time, to measure it.
 
-A few months ago, I thought I found **the** answer to this conundrum: just enter some data about your life every 15 minutes (what I called "[coloring my life](https://hackernoon.com/focus-hacking-with-complexity-and-colors-f3073c725232)".
+A few months ago, I thought I found **the** answer to this conundrum: just enter some data about your life every 15 minutes (what I called "[coloring my life](https://hackernoon.com/focus-hacking-with-complexity-and-colors-f3073c725232)").
 
 Now, I try to observe time in our physical world. I constantly turn my personal hourglass. You see the time _flowing_ to the the bottom.
 
