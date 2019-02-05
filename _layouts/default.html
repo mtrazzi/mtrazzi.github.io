@@ -1,32 +1,32 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} </title>
+	<head>
+		<title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} </title>
 
-	{% include meta.html %}
+		{% include meta.html %}
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+		<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+		<link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
-  </head>
+	</head>
 
-  <body>
+	<body>
 
-	<img border="0" height="200" src="/images/mtrazzi.jpg" width="200" align="center"/>
+		<br/>
+		<br/>
+		<img border="0" height="200" src="/images/mtrazzi.jpg" width="200" align="center"/>
 
-    <div class="wrapper-footer">
-      <div class="container">
-		  <footer class="footer">
-          	{% include svg-icons.html %}
-		  </footer>
-      </div>
-    </div>
+		<div class="wrapper-footer">
+			<div class="container">
+				<footer class="footer">
+					{% include svg-icons.html %}
+					<center>
+						<p align="center;"><strong align="center;"><a href="https://www.lesswrong.com/users/mtrazzi">LessWrong</a> • <a href="https://medium.com/@MichaelTrazzi">Medium</a> • <a href="https://blog.floydhub.com/author/michaeltrazzi/">FloydHub</a> • <a href="https://mtrazzi.github.io/blog/">Blog</a> • <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Trazzi%2C+M">arXiv</a></strong></p>
+					</center>
+				</footer>
+			</div>
+		</div>
 
-    <div id="main" role="main" class="container">
-      {{ content }}
-    </div>  
-
-
-    {% include analytics.html %}
-  </body>
+		{% include analytics.html %}
+	</body>
 </html>
