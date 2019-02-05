@@ -17,21 +17,12 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  arxiv: #search/cs?searchtype=author&query=Trazzi%2C+M
-  dribbble:
   email: michael.trazzi@gmail.com
-  facebook: micha.zitra.9
-  flickr:
-  github: mtrazzi
-  instagram: michaeltrazzi
-  linkedin: michaël-trazzi-8a6960118
-  pinterest:
-  rss: # just type anything here for a working RSS icon
   twitter: MichaelTrazzi
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
-
+  linkedin: michaël-trazzi-8a6960118
+  facebook: micha.zitra.9
+  instagram: michaeltrazzi
+  github: mtrazzi
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
