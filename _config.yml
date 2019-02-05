@@ -17,6 +17,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 
 # Includes an icon in the footer for each username you enter
 footer-links:
+  arxiv: search/cs?searchtype=author&query=Trazzi%2C+M
   dribbble:
   email: michael.trazzi@gmail.com
   facebook: micha.zitra.9
@@ -30,7 +31,6 @@ footer-links:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
-  arxiv: search/cs?searchtype=author&query=Trazzi%2C+M
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
