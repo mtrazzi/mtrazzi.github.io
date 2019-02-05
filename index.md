@@ -2,21 +2,8 @@
 layout: default
 ---
 
-<img border="0" height="200" src="/images/mtrazzi.jpg" width="200" />
+<img border="0" height="200" src="/images/mtrazzi.jpg" width="200" align="center"/>
 
-Hi, I'm Michaël. Here are some links about me.
-
-
-<div class="row">
-<div class="column">
-<img src="https://upload.wikimedia.org/wikipedia/en/7/7c/LessWrong_logo.svg">
-</div>
-<div class="column">
-<img src="https://upload.wikimedia.org/wikipedia/en/7/7c/LessWrong_logo.svg">
-</div>
-<div class="column">
-<img src="https://upload.wikimedia.org/wikipedia/en/7/7c/LessWrong_logo.svg">
-</div>
-</div>
-
-**[arxiv](https://arxiv.org/search/cs?searchtype=author&query=Trazzi%2C+M) • [lesswrong](https://www.lesswrong.com/users/mtrazzi) • [medium](https://medium.com/@MichaelTrazzi) • [floydhub](https://blog.floydhub.com/author/michaeltrazzi/) • [blog](https://mtrazzi.github.io/blog/) • [arxiv](https://arxiv.org/search/cs?searchtype=author&query=Trazzi%2C+M)**
+<p align="center">
+**[LessWrong](https://www.lesswrong.com/users/mtrazzi) • [Medium](https://medium.com/@MichaelTrazzi) • [FloydHub](https://blog.floydhub.com/author/michaeltrazzi/) • [Blog](https://mtrazzi.github.io/blog/) • [arXiv](https://arxiv.org/search/cs?searchtype=author&query=Trazzi%2C+M)**
+</p>
