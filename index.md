@@ -6,4 +6,6 @@ layout: default
 
 Hi, I'm Michaël. Here are some links about me.
 
+<img src="https://upload.wikimedia.org/wikipedia/en/7/7c/LessWrong_logo.svg">
+
 **[arxiv](https://arxiv.org/search/cs?searchtype=author&query=Trazzi%2C+M) • [lesswrong](https://www.lesswrong.com/users/mtrazzi) • [medium](https://medium.com/@MichaelTrazzi) • [floydhub](https://blog.floydhub.com/author/michaeltrazzi/) • [blog](https://mtrazzi.github.io/blog/) • [arxiv](https://arxiv.org/search/cs?searchtype=author&query=Trazzi%2C+M)**
