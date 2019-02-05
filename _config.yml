@@ -17,7 +17,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  arxiv: search/cs?searchtype=author&query=Trazzi%2C+M
+  arxiv: #search/cs?searchtype=author&query=Trazzi%2C+M
   dribbble:
   email: michael.trazzi@gmail.com
   facebook: micha.zitra.9
