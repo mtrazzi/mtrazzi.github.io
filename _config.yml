@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Michael Trazzi
+name: Thomas M. Sittler
 
 # Short bio or description (displayed in the header)
-description: A blog about productivity and Artificial Intelligence
+description:
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars0.githubusercontent.com/u/27353256?s=400&u=9bfece1aa6b90a042ebde8533702d6bc4a25e437&v=4
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
 # Flags below are optional
@@ -21,12 +21,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: mtrazzi
+  github: barryclark/jekyll-now
   instagram:
-  linkedin: michaël-trazzi-8a6960118
+  linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: MichaelTrazzi
+  twitter: jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -37,7 +37,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-52671832-6
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
@@ -84,5 +84,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-theme: jekyll-theme-minimal
