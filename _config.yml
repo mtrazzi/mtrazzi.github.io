@@ -1,0 +1,24 @@
+title: The Inside View # name of the site
+author: Michaël Trazzi # name of site's author
+email: michael.trazzi@gmail.com # email of site's author
+url: https://theinsideview.ai # root address of the site
+baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+description: > # description of the site (multiple lines allowed)
+  Transcripts of podcast episodes about existential risk from Artificial Intelligence (including AI Alignment, AI Governance, and everything else that could be decision-relevant for thinking about existential risk from AI).
+
+remote_theme: riggraz/no-style-please
+
+theme_config:
+  appearance: "auto" # can be "light", "dark" or "auto"
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: false # show blog description in home page
+
+favicon: "logo.png"
+
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
