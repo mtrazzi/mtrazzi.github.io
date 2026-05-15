@@ -8,6 +8,8 @@
   --muted: #888;
   --muted-border: #333;
   --highlight: yellow;
+  --link: #d4a843;
+  --link-visited: #d4a843;
 }
 
 @mixin dark-vars {
@@ -19,6 +21,8 @@
   --muted: #999;
   --muted-border: #aaa;
   --highlight: #665500;
+  --link: #ffff11;
+  --link-visited: #aae574;
 }
 
 body[a="dark"] { @include dark-vars; }
@@ -104,3 +108,6 @@ img {
   display: block;
   margin: 0 auto;
 }
+
+a { color: var(--link); }
+a:visited { color: var(--link-visited); }
